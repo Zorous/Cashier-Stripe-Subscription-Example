@@ -61,5 +61,5 @@ This step is a very important step, if you don't have a stripe account then you 
 
 ⚠ Strip supports 47 different countries and 2 are coming soon, but unfortunately Stripe doesn't support Morroco, so my example stopped here
 <br>
-
+![supported contries](https://user-images.githubusercontent.com/91610919/219339331-410784a1-e2e1-4dfa-afd4-8057df834c11.PNG)
 
