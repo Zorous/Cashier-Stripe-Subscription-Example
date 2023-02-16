@@ -63,5 +63,5 @@ This step is a very important step, if you don't have a stripe account then you 
 <br>
 ![supported contries](https://user-images.githubusercontent.com/91610919/219339331-410784a1-e2e1-4dfa-afd4-8057df834c11.PNG)
 <p  align="center" >
-<imgsrc="https://user-images.githubusercontent.com/91610919/219342304-ab908f08-dbc3-44b1-87ae-b4499dff3870.PNG" />
+<img src="https://user-images.githubusercontent.com/91610919/219342304-ab908f08-dbc3-44b1-87ae-b4499dff3870.PNG" />
 </p>
